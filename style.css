@@ -29,7 +29,7 @@ header{
 }
 header .logo{
     color: rgb(255, 255, 255);
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -44,7 +44,7 @@ header .logo{
 
 nav a{
     color: rgb(255, 255, 255);
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 500;
     margin-left: 30px;
     text-decoration: none;
@@ -74,9 +74,9 @@ section.Home{
 }
 
 .home-img img{
-    position: absolute;
+    position: fixed;
     width: 20vw;
-    top:90px;
+    top:200px;
     left: 120px;
     border-radius: 50%;
     box-shadow: 0 0 15px rgb(112, 143, 188);
@@ -91,7 +91,7 @@ section.Home{
 
 .home-content{
     width: 60%;
-    height: 75%;
+    height: 95%;
     right: 100px;
     top:50px;
     position: absolute;
